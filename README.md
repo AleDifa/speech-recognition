@@ -53,6 +53,6 @@ with traccia2 as source:
 
 r.recognize_google(audio2, language="it_IT")
 ```
->"pensiamo messaggio ripetuto nel tempo quindi le due caratteristiche importanti sono la frequenza Quindi quante volte vedo questo messaggio all'inte...
+>"pensiamo messaggio ripetuto nel tempo quindi le due caratteristiche importanti sono la frequenza Quindi quante volte vedo questo messaggio all'inte.. ecc...
 
-### More words are incorrect, a better way would be to work with software to reduce the level of background noise.
+More words are incorrect, a better way would be to work with software to reduce the level of background noise.
